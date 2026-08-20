@@ -73,4 +73,4 @@ npx playwright show-report
 - Playwright MCP
 - Chromium
 
-Este projeto representa o início da minha jornada com automação de testes e foi construído como parte do aprendizado no Bootcamp da QAzando.
+Este projeto representa minha jornada em automação de testes e foi construído como parte do aprendizado no Bootcamp da QAzando.
